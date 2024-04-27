@@ -25,6 +25,8 @@ The recommendation system is implemented using the PageRank algorithm. The PageR
 ## 📝 Conclusion
 In this project, a toy recommendation system using network analysis is implemented. The recommendation system is based on the network analysis of the toy pairs. The recommendation system is implemented using the PageRank algorithm. The PageRank algorithm is used to rank the toys based on their importance in the network. The recommendation system is then evaluated using the metrics such as F1 score, recall, precision and more when compared to the truly bought products
 
+## How to run?
+The file named recommender2.ipynb can be run in a jupyter environment with python kernel. The file recommender.ipynb does not have the functionality as described here but uses other techniques such as weighted nodes based on number of reviews and also a simple string matching nltk library use for the recommendations.
 ## 📚 References
 - David Easley and Jon Kleinberg, "Networks, Crowds, and Markets: Reasoning About a Highly Connected World", Cambridge University Press, 2010.
 - NetworkX library in Python: https://networkx.org/
