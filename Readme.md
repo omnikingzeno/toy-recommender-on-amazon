@@ -32,3 +32,4 @@ The file named recommender2.ipynb can be run in a jupyter environment with pytho
 - NetworkX library in Python: https://networkx.org/
 - PageRank algorithm: https://en.wikipedia.org/wiki/PageRank
 - Toy dataset: https://www.kaggle.com/datasets/PromptCloudHQ/toy-products-on-amazon
+- Asynchronouse label propagation algorithm: https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.community.label_propagation.asyn_lpa_communities.html
